@@ -31,7 +31,7 @@
 - If it sends to a remote logging facility (ELK, Logz.io, Splunk, SumoLogic, etc.), local facilities should be on an **AGGRESSIVE** rotation schedule (~7 days)
 - If it doesn't log anything to any location... **MAYBE IT SHOULD**.
 
-# Monitoring
+## Monitoring
 - If it's in production, **IT SHOULD BE MONITORED**.
 - If it's a service or API, it should be actively monitored with:
   - synthetic transactions (canaries)
@@ -44,12 +44,12 @@
   - Send a stat somewhere.
   - Or figure out if it's worth paying attention to in the first place.
 
-# Metrics (Stats)
+## Metrics (Stats)
 - If it's a service, it should report metrics somewhere.
 - If it's reporting data, it should be part of the operational procedures/runbooks/playbooks/etc.
 - If it has a stats dashboard, it should be available on-demand and at-a-glance to teams impacted by said service(s).
 
-# Testing/Tests
+## Testing/Tests
 - Does the feature/cookbook/manifest/change/code have:
   - rspec
   - chefspec
