@@ -25,6 +25,11 @@ This is intended to be a relatively quick introduction to me, how I work, how I 
 * Escalations and emergencies
   * These should ideally _**NEVER**_ happen (monitoring, metrics, and alerting should notify us before this response becomes necessary)
   * If they happen, they should _**ALWAYS**_ have a post-mortem and action items to resolve (aka "CAPAs" or "Corrective Actions/Preventative Actions")
+* Useless meetings/training sessions
+  * If a meeting/training session doesn't have any of the below items, there's no point to me being there:
+    * Clear objectives ("what you should know by the end of this session", "what we intend to address", etc.)
+    * A clear list of take-aways
+    * A clear indication of impact to my job function/project/tasks/etc.
 * Ambiguity
   * If there isn't a [Definition Of Done](https://www.agilealliance.org/glossary/definition-of-done), finding that is imperative.
   * If there's no overall direction, visible Milestones, or articulated Vision of the product or service, then that's a big problem.
