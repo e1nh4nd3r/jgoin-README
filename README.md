@@ -6,6 +6,9 @@ This is intended to be a relatively quick introduction to me, how I work, how I 
 * I can be easily distracted (and [context-switching is expensive](https://www.forbes.com/sites/timfrancis/2017/06/12/the-real-cost-of-context-switching/#7501fe852623)), so I often look for ways to minimize distractions (including working from home, finding "alternative" spaces within a given office space, setting "do not disturb" periods on my calendar, etc).
 * I can pay attention to many information streams simultaneously, but often at the cost of being unable to perform complicated tasks.
 * I communicate extremely well, but I often prefer to reference documentation wherever possible.
+* I am generally well-organized and prefer to document things as I work.
+* I generally submit "backlog" issues relating to bugs, feature requests, and other things as part of my work.
+* I tend to follow-up with stakeholders and other impacted parties regularly in order to ensure all relevant requests have been satisfied and that there's no further work to complete and no problems.
 
 # How I like to work
 * I like tasks and projects that are clear, concise, and that have a clear [Definition Of Done](https://www.agilealliance.org/glossary/definition-of-done).
@@ -15,9 +18,9 @@ This is intended to be a relatively quick introduction to me, how I work, how I 
 
 # How I prefer to communicate
 * If it's non-critical, emails are great.
-* If it's something really quick that doesn't need to be codified anywhere (like a Confluence document or something), Slack tends to work well.
-* If discussing something is going to be complicated or detailed, a one-time meeting (with a summary afterward) is great.
-* If it's an emergency, Slack works really well (but then again if it's an emergency, referencing documentation around [How To Get Help and What Is An Emergency](http://opsreportcard.com/section/2) would probably be better).
+* If it's something really quick that doesn't need to be codified anywhere (like a Confluence document or something), Slack/Teams tends to work well.
+* If discussing something is going to be complicated or detailed, a one-time meeting with a summary afterward is preferred.
+* If it's an emergency, Slack/Teams works really well (but then again if it's an emergency, referencing documentation around [How To Get Help and What Is An Emergency](http://opsreportcard.com/section/2) would probably be better).
 
 # What I prefer to avoid
 * Repetitive tasks
@@ -32,6 +35,6 @@ This is intended to be a relatively quick introduction to me, how I work, how I 
     * A clear indication of impact to my job function/project/tasks/etc.
 * Ambiguity
   * If there isn't a [Definition Of Done](https://www.agilealliance.org/glossary/definition-of-done), finding that is imperative.
-  * If there's no overall direction, visible Milestones, or articulated Vision of the product or service, then that's a big problem.
+  * If there's no overall direction, visible Milestones, or articulated Vision of the product or service, there will be confusion and delays.
 * Over- or under-communication
-  * Constant emails, meetings, and Slack notifications are just as bad as radio silence.  Finding the right balance and notification mechanisms is key.
+  * Constant emails, meetings, and Slack/Teams notifications are just as bad as radio silence.  Finding the right balance and notification mechanisms is key.
